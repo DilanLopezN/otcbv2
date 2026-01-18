@@ -1,0 +1,226 @@
+{
+  "comboSpells": [
+    {
+      "widgetPos": {
+        "x": 0,
+        "y": 50
+      },
+      "distance": 10,
+      "enableTimeSpell": true,
+      "enabled": false,
+      "orangeSpell": "mokuton prision",
+      "cooldownSpells": 2963989,
+      "cooldown": 19999,
+      "spellCast": "mokuton prision",
+      "index": 1
+    },
+    {
+      "widgetPos": {
+        "x": 0,
+        "y": 50
+      },
+      "distance": 10,
+      "enableTimeSpell": true,
+      "enabled": false,
+      "orangeSpell": "kuchiyose kyuubi no jutsu",
+      "cooldown": 60000,
+      "spellCast": "kuchiyose kyuubi no jutsu",
+      "index": 2
+    },
+    {
+      "widgetPos": {
+        "x": 0,
+        "y": 50
+      },
+      "distance": 1,
+      "enableTimeSpell": true,
+      "enabled": false,
+      "orangeSpell": "powerdown",
+      "cooldown": 100,
+      "spellCast": "powerdown",
+      "index": 3
+    },
+    {
+      "widgetPos": {
+        "x": 0,
+        "y": 50
+      },
+      "distance": 10,
+      "enableTimeSpell": true,
+      "enabled": true,
+      "orangeSpell": "tengai yasaka no magatama",
+      "cooldownSpells": 2953660,
+      "cooldown": 3051,
+      "spellCast": "tengai yasaka no magatama",
+      "index": 4
+    },
+    {
+      "widgetPos": {
+        "x": 0,
+        "y": 50
+      },
+      "distance": 10,
+      "enableTimeSpell": true,
+      "enabled": true,
+      "orangeSpell": "shin tengai shinsei",
+      "cooldownSpells": 2952659,
+      "cooldown": 3068,
+      "spellCast": "shin tengai shinsei",
+      "index": 5
+    },
+    {
+      "widgetPos": {
+        "x": 0,
+        "y": 50
+      },
+      "distance": 10,
+      "enableTimeSpell": true,
+      "enabled": true,
+      "orangeSpell": "susano attack",
+      "cooldownSpells": 2952676,
+      "cooldown": 2569,
+      "spellCast": "susano attack",
+      "index": 6
+    },
+    {
+      "widgetPos": {
+        "x": 0,
+        "y": 50
+      },
+      "distance": 10,
+      "enableTimeSpell": true,
+      "enabled": false,
+      "orangeSpell": "senpo mokuton hijutsu koutan",
+      "cooldownSpells": 2970121,
+      "cooldown": 25082,
+      "spellCast": "senpo mokuton hijutsu koutan",
+      "index": 7
+    },
+    {
+      "widgetPos": {
+        "x": 0,
+        "y": 50
+      },
+      "distance": 10,
+      "enableTimeSpell": true,
+      "enabled": true,
+      "orangeSpell": "katon kairyudan no jutsu",
+      "cooldownSpells": 2954164,
+      "cooldown": 3057,
+      "spellCast": "katon kairyudan no jutsu",
+      "index": 8
+    },
+    {
+      "widgetPos": {
+        "x": 0,
+        "y": 50
+      },
+      "distance": 10,
+      "enableTimeSpell": true,
+      "enabled": true,
+      "orangeSpell": "tengai shinsei",
+      "cooldownSpells": 2954704,
+      "cooldown": 3066,
+      "spellCast": "tengai shinsei",
+      "index": 9
+    },
+    {
+      "widgetPos": {
+        "x": 0,
+        "y": 50
+      },
+      "distance": 10,
+      "enableTimeSpell": true,
+      "enabled": true,
+      "orangeSpell": "katon endan",
+      "cooldownSpells": 2953769,
+      "cooldown": 1594,
+      "spellCast": "katon endan",
+      "index": 10
+    }
+  ],
+  "enabled": false,
+  "target": false,
+  "guild": false,
+  "keySpells": [
+    {
+      "spellCast": "mokuton prision",
+      "enabled": true,
+      "keyPress": "2",
+      "index": 1
+    },
+    {
+      "spellCast": "rinbo hengoku",
+      "enabled": true,
+      "keyPress": "1",
+      "index": 2
+    }
+  ],
+  "fugaSpells": [
+    {
+      "widgetPos": {
+        "x": 458,
+        "y": 181
+      },
+      "spellCast": "Mode Bijuu",
+      "onScreen": "Mode Bijuu",
+      "enableTimeSpell": true,
+      "enabled": true,
+      "cooldownTotal": 180,
+      "orangeSpell": "Mode Bijuu",
+      "cooldownActive": 30,
+      "selfHealth": 20,
+      "index": 1
+    },
+    {
+      "widgetPos": {
+        "x": 0,
+        "y": 50
+      },
+      "spellCast": "kawarimi no jutsu",
+      "onScreen": "Kawarimi",
+      "enableTimeSpell": true,
+      "enabled": true,
+      "cooldownTotal": 35,
+      "orangeSpell": "kawarimi no jutsu",
+      "cooldownActive": 5,
+      "selfHealth": 85,
+      "index": 2
+    },
+    {
+      "widgetPos": {
+        "x": 0,
+        "y": 50
+      },
+      "spellCast": "mangekyou susanoo",
+      "totalCooldown": 3034337,
+      "onScreen": "mangekyou susanoo",
+      "enableTimeSpell": true,
+      "enabled": true,
+      "cooldownTotal": 80,
+      "orangeSpell": "mangekyou susanoo",
+      "cooldownActive": 35,
+      "activeCooldown": 2989337,
+      "selfHealth": 70,
+      "index": 3
+    },
+    {
+      "widgetPos": {
+        "x": 0,
+        "y": 50
+      },
+      "spellCast": "katon haijingakure no jutsu",
+      "totalCooldown": 2876774,
+      "onScreen": " katon haijingakure no jutsu",
+      "enableTimeSpell": true,
+      "enabled": true,
+      "cooldownTotal": 45,
+      "orangeSpell": "katon haijingakure no jutsu",
+      "cooldownActive": 4,
+      "activeCooldown": 2835774,
+      "selfHealth": 40,
+      "index": 4
+    }
+  ],
+  "enemy": false
+}
